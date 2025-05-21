@@ -4,7 +4,19 @@
   <img src="./assets/profile.gif" width="200" alt="3D头像">
   
   <!-- 中英双语动态标题 -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&width=435&lines=Full-Stack+Developer%2F%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85;Open+Source+Enthusiast%2F%E5%BC%80%E6%BA%90%E7%83%AD%E8%A1%B7%E8%80%85;Cloud+Native+Expert%2F%E4%BA%91%E5%8E%9F%E7%94%9F%E4%B8%93%E5%AE%B6" alt="双语动态标题">
+  <!-- 带中文的渐变效果 -->
+<img src="https://readme-typing-svg.demolab.com?
+font=Microsoft+YaHei+UI&
+size=28&
+duration=5000&
+pause=800&
+color=58A6FF&
+background=FFFFFF00&
+width=700&
+height=100&
+lines=Hello+World!%2F你好世界！;Full-Stack+Developer%2F全栈开发者;Open+Source+Contributor%2F开源贡献者" 
+alt="多语言动态标题">
+
 
   ### 🛠️ 技术栈 | Tech Stack
   <!-- 增强版技术栈图标 -->
