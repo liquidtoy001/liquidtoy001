@@ -2,7 +2,7 @@
 <div align="center">
   <!-- 动态头像与标题 -->
   <img src="./assets/profile.gif" width="200" alt="3D Avatar">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Full-Stack+Developer;Cloud+Native+Expert;10%2B+years+coding" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Arknights The best;明日方舟YYDS;10%2B+years+coding" alt="Typing Animation" />
   ### 🛠️ 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
   <!-- 技术栈分模块展示 -->
   <div align="center">
