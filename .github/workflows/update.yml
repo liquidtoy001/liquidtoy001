@@ -1,0 +1,17 @@
+name: Profile Auto-Update
+on:
+  schedule:
+    - cron: '0 12 * * *' # 每天UTC时间12:00（北京时间20:00）触发
+  workflow_dispatch:     # 允许手动触发
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Auto Commit
+        uses: github-actions-x/commit@v2.9
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "🔁 Auto update: $(date '+%Y-%m-%d %H:%M')"
+          force: true
