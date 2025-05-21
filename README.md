@@ -1,11 +1,19 @@
 ## Hi there 👋 𝗜'𝗺 𝗟𝗶𝗾𝘂𝗶𝗱𝗧𝗼𝘆 
 <div align="center">
+  <img src="./assets/profile.gif" width="200" alt="3D头像">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast" alt="动态标题">
   <!-- 动态打字效果 -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Cloud+Native+Explorer" alt="Typing Animation" />
   <!-- 技术栈图标 -->
   <div align="center">
     <img src="https://skillicons.dev/icons?i=py,go,js,ts,react,kubernetes,docker,aws,linux,git,postgres,redis,grafana&perline=7" />
+    
   </div>
+  ## 📈 GitHub Stats
+!
+![Visitor Count](https://profile-counter.glitch.me/你的用户名/count.svg)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=你的SpotifyID&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=你的SpotifyID&redirect=true)
+
   <!-- GitHub统计卡片 -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=liquidtoy001&show_icons=true&theme=radical&hide_title=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liquidtoy001&layout=compact&theme=radical" />
