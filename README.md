@@ -3,7 +3,7 @@
   <!-- 动态头像与标题 -->
   <img src="./assets/profile.gif" width="200" alt="3D Avatar">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Full-Stack+Developer;Cloud+Native+Expert;10%2B+years+coding" alt="Typing Animation" />
-  ### 🛠️ 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
+  🛠️ 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
   <!-- 技术栈分模块展示 -->
   <div align="center">
     <img src="https://skillicons.dev/icons?i=java,py,php,html,css,js,ts,react,spring,kubernetes,docker,aws,linux,git,postgres,redis,grafana&perline=9" />
@@ -16,12 +16,12 @@
   </div>
   <!-- 动态贡献图 -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=liquidtoy001&theme=react-dark&bg_color=0D1117&hide_border=true" />
-  ### 🎯 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀
+   🎯 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀
   <!-- 功能徽章墙 -->
   [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
   ![CI/CD](https://github.com/liquidtoy001/YOUR_REPO_NAME/actions/workflows/main.yml/badge.svg)
 </div>
-### 📌 𝗣𝗶𝗻𝗻𝗲𝗱 𝗥𝗲𝗽𝗼𝘀
+ 📌 𝗣𝗶𝗻𝗻𝗲𝗱 𝗥𝗲𝗽𝗼𝘀
 <!-- 置顶项目展示 -->
 <div align="center">
   <a href="https://github.com/liquidtoy001/REPO1">
