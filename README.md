@@ -31,17 +31,3 @@
     <img src="./assets/project2.png" width="45%" alt="Microservices Framework">
   </a>
 </div>
-### 🚀 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀
-```python
-class FullStackSkills:
-    def __init__(self):
-        self.frontend = ["React", "TypeScript", "HTML5", "CSS3"]
-        self.backend = ["Java/Spring", "Python/Django", "PHP/Laravel"]
-        self.infra = ["Kubernetes", "AWS", "Docker", "ArgoCD"]
-        self.monitoring = ["Prometheus", "Grafana", "ELK"]
-    def show_experience(self):
-        return {
-            "years": 10,
-            "certifications": ["AWS Certified", "CKAD"],
-            "specialties": ["Cloud Migration", "DevOps Automation"]
-        }
