@@ -1,6 +1,7 @@
 ## Hi there 👋 𝗜'𝗺 𝗟𝗶𝗾𝘂𝗶𝗱𝗧𝗼𝘆 
 <div align="center">
   <!-- 动态头像 -->
+  <img src="./assets/profile1.gif" width="200" alt="3D头像">
   <img src="./assets/profile.gif" width="200" alt="3D头像">
   <img src="./assets/profile1.gif" width="200" alt="3D头像">
   <img src="./assets/profile.gif" width="200" alt="3D头像">
