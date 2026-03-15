@@ -2,22 +2,12 @@
 <div align="center">
   <!-- 动态头像 -->
   <img src="./assets/profile.gif" width="200" alt="3D头像">
+  <img src="./assets/profile1.gif" width="200" alt="3D头像">
   <img src="./assets/profile.gif" width="200" alt="3D头像">
+  <img src="./assets/profile1.gif" width="200" alt="3D头像">
   
   <!-- 中英双语动态标题 -->
   <!-- 带中文的渐变效果 -->
-<img src="https://readme-typing-svg.demolab.com?
-font=Microsoft+YaHei+UI&
-size=28&
-duration=5000&
-pause=800&
-color=58A6FF&
-background=FFFFFF00&
-width=700&
-height=100&
-lines=Hello+World!%2F你好世界！;Full-Stack+Developer%2F全栈开发者;Open+Source+Contributor%2F开源贡献者" 
-alt="多语言动态标题">
-
 
   ### 🛠️ 技术栈 | Tech Stack
   <!-- 增强版技术栈图标 -->
