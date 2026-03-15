@@ -2,6 +2,7 @@
 <div align="center">
   <!-- 动态头像 -->
   <img src="./assets/profile.gif" width="200" alt="3D头像">
+  <img src="./assets/profile.gif" width="200" alt="3D头像">
   
   <!-- 中英双语动态标题 -->
   <!-- 带中文的渐变效果 -->
