@@ -32,18 +32,3 @@
 </div>
 
 ### 🚀 项目亮点 | Highlights
-```python
-class FullStackSkills:
-    def __init__(self):
-        self.frontend = ["HTML5", "CSS3", "React", "TypeScript"]
-        self.backend = ["Java/Spring", "Python/Django", "PHP/Laravel"]
-        self.devops = ["K8s", "Docker", "AWS", "ArgoCD"]
-        self.databases = ["PostgreSQL", "Redis", "MongoDB"]
-        self.monitoring = ["Prometheus", "Grafana", "ELK"]
-    
-    def get_experience(self):
-        return {
-            "years": 10,
-            "certifications": ["AWS Certified", "CKAD", "PHP ZCE"],
-            "specialties": ["微服务架构", "DevOps自动化", "云原生迁移"]
-        }
