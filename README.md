@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 二次元角落 — 保留一点点自我 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=6E7681&center=true&vCenter=true&width=300&lines=%E2%9C%A8+My dream is to learn mysterious magic!+%E2%9C%A8" alt="subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=6E7681&center=true&vCenter=true&width=300&lines=%E2%9C%A8+off-duty+magical+engineer+%E2%9C%A8" alt="subtitle" />
 
 # Turino Lee &nbsp;`liquidtoy001`
 
@@ -27,7 +27,7 @@ Currently exploring distributed systems and cloud-native architecture.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![R](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -55,9 +55,9 @@ Currently exploring distributed systems and cloud-native architecture.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liquidtoy001&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=liquidtoy001&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liquidtoy001&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=liquidtoy001&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
@@ -77,9 +77,7 @@ Currently exploring distributed systems and cloud-native architecture.
   <tr>
     <td><img src="assets/profile.gif" width="120" /></td>
     <td><img src="assets/profile1.gif" width="120" /></td>
-  </tr>
-  <tr>
-    <td><img src="assets/profile1.gif" width="120" /></td>
+        <td><img src="assets/profile1.gif" width="120" /></td>
     <td><img src="assets/profile.gif" width="120" /></td>
   </tr>
 </table>
