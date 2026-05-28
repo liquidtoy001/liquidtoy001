@@ -13,9 +13,9 @@
 
 ## About
 
-Software developer with a focus on building reliable, scalable web applications. Comfortable across the full stack — from designing REST APIs and database schemas to shipping responsive frontends. I enjoy writing clean, maintainable code and picking the right tool for the job rather than the trendiest one.
+CS & ML @ UQ.
 
-Currently exploring distributed systems and cloud-native architecture.
+Dedicated to researching model training and building AI companion systems, as well as studying machine consciousness, future plans include investigating the role of models in games.
 
 ---
 
