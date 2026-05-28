@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 二次元角落 — 保留一点点自我 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=6E7681&center=true&vCenter=true&width=300&lines=%E2%9C%A8+off-duty+magical+engineer+%E2%9C%A8" alt="subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=6E7681&center=true&vCenter=true&width=300&lines=%E2%9C%A8+梦想是学会魔法+%E2%9C%A8" alt="subtitle" />
 
 # Turino Lee &nbsp;`liquidtoy001`
 
@@ -73,10 +73,19 @@ Currently exploring distributed systems and cloud-native architecture.
 
 <div align="center">
 
+<table border="0" cellspacing="0" cellpadding="4">
+  <tr>
+    <td><img src="assets/profile.gif" width="120" /></td>
+    <td><img src="assets/profile1.gif" width="120" /></td>
+  </tr>
+  <tr>
+    <td><img src="assets/profile1.gif" width="120" /></td>
+    <td><img src="assets/profile.gif" width="120" /></td>
+  </tr>
+</table>
+
 <sub>
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="18" />
   &nbsp;yes i put an anime girl on my github. deal with it.&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="18" />
 </sub>
 
 </div>
