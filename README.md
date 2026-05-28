@@ -1,34 +1,82 @@
-## Hi there 👋 𝗜'𝗺 𝗟𝗶𝗾𝘂𝗶𝗱𝗧𝗼𝘆 
 <div align="center">
-  <!-- 动态头像 -->
-  <img src="./assets/profile.gif" width="200" alt="3D头像">
-  <img src="./assets/profile1.gif" width="200" alt="3D头像">
-  <img src="./assets/profile1.gif" width="200" alt="3D头像">
-  <img src="./assets/profile.gif" width="200" alt="3D头像">
-  <img src="./assets/profile.gif" width="200" alt="3D头像">
-  <img src="./assets/profile1.gif" width="200" alt="3D头像">
-  <img src="./assets/profile1.gif" width="200" alt="3D头像">
-  <img src="./assets/profile.gif" width="200" alt="3D头像">
-  
-  <!-- 中英双语动态标题 -->
-  <!-- 带中文的渐变效果 -->
 
-  ### 🛠️ 技术栈 | Tech Stack
-  <!-- 增强版技术栈图标 -->
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,py,php,html,css,js,ts,react,spring,django,laravel,kubernetes,docker,aws,linux,git,postgres,redis,grafana&perline=9" />
-  </div>
+<!-- 二次元角落 — 保留一点点自我 -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=6E7681&center=true&vCenter=true&width=300&lines=%E2%9C%A8+off-duty+magical+engineer+%E2%9C%A8" alt="subtitle" />
 
-  ## 📈 数据统计 | GitHub Stats
-  <!-- 三栏式统计卡片 -->
-  <div align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=liquidtoy001&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&include_all_commits=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liquidtoy001&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" />
-    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=liquidtoy001&theme=vision-friendly-dark&hide_border=true" />
-  </div>
+# Turino Lee &nbsp;`liquidtoy001`
 
-  <!-- 动态贡献图 -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=liquidtoy001&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" />
+**Full-Stack Developer** · Brisbane, AU &nbsp;·&nbsp; he/him
+
 </div>
 
-### 🚀 项目亮点 | Highlights
+---
+
+## About
+
+Software developer with a focus on building reliable, scalable web applications. Comfortable across the full stack — from designing REST APIs and database schemas to shipping responsive frontends. I enjoy writing clean, maintainable code and picking the right tool for the job rather than the trendiest one.
+
+Currently exploring distributed systems and cloud-native architecture.
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Infrastructure & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liquidtoy001&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liquidtoy001&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+## Currently
+
+- 🔭 &nbsp;Working on personal full-stack projects
+- 🌱 &nbsp;Deepening knowledge in cloud-native patterns and distributed systems
+- 🎓 &nbsp;Studying in Brisbane
+
+---
+
+<div align="center">
+
+<sub>
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="18" />
+  &nbsp;yes i put an anime girl on my github. deal with it.&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="18" />
+</sub>
+
+</div>
