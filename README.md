@@ -5,7 +5,7 @@
 
 # Turino Lee &nbsp;`liquidtoy001`
 
-**Full-Stack Developer** · Brisbane, AU &nbsp;·&nbsp; he/him
+**Full-Stack Developer AI Researcher** · Brisbane, AU &nbsp;·&nbsp; he/him
 
 </div>
 
