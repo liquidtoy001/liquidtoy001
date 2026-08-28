@@ -5,7 +5,7 @@
 
 # Turino Lee &nbsp;`liquidtoy001`
 
-**Full-Stack Developer AI Researcher** · Brisbane, AU &nbsp;·&nbsp; he/him
+**AI/ML Undergraduate · Agentic AI Systems** · Brisbane, AU &nbsp;·&nbsp; he/him
 
 </div>
 
@@ -15,7 +15,9 @@
 
 CS & ML @ UQ.
 
-Dedicated to researching model training and building AI companion systems, as well as studying machine consciousness, future plans include investigating the role of models in games.
+Interested in agentic AI systems, especially long-term memory, retrieval, knowledge integration, and tool/workflow orchestration for autonomous agents.
+
+Currently exploring how these systems connect with NLP, information retrieval, and sequential decision-making.
 
 ---
 
@@ -53,9 +55,9 @@ Dedicated to researching model training and building AI companion systems, as we
 
 ## Currently
 
-- 🔭 &nbsp;Working on personal full-stack projects
-- 🌱 &nbsp;Deepening knowledge in cloud-native patterns and distributed systems
-- 🎓 &nbsp;Studying in Brisbane
+- 🔭 &nbsp;Working on agentic AI, memory systems, and research-oriented projects
+- 🌱 &nbsp;Deepening foundations in deep learning, NLP, information retrieval, and reinforcement learning
+- 🎓 &nbsp;CS & ML undergraduate at The University of Queensland
 
 ---
 
