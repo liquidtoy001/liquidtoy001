@@ -13,7 +13,7 @@
 
 ## About
 
-Bachelor of Computer Science, majoring in Machine Learning, at [The University of Queensland](https://www.uq.edu.au/).
+Bachelor of Computer Science, majoring in Machine Learning, at The University of Queensland.
 
 I build agentic AI systems — especially **long-term memory**, **retrieval**, knowledge integration, and tool/workflow orchestration for autonomous agents — and study how they connect with NLP, information retrieval, and sequential decision-making.
 
