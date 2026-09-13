@@ -1,0 +1,32 @@
+name: Activity card
+on:
+  schedule:
+    - cron: '0 14 * * *' # 每天 UTC 14:00（布里斯班 00:00）刷新
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/scripts/activity.py', '.github/workflows/activity.yml']
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Render SVG cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/activity.py
+      # 由 github-actions[bot] 提交，不计入个人贡献，图表不会自我膨胀
+      - name: Commit if changed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898276+github-actions[bot]@users.noreply.github.com'
+          git add assets/activity-*.svg
+          git diff --cached --quiet || git commit -m 'chore: refresh activity card'
+          git push
