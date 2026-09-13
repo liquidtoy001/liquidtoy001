@@ -3,21 +3,25 @@
 <!-- 二次元角落 — 保留一点点自我 -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=6E7681&center=true&vCenter=true&width=300&lines=%E2%9C%A8+mmy+dream+is+to+learn+mysterious+magic+%E2%9C%A8" alt="subtitle" />
 
-**AI/ML Undergraduate · Agentic AI Systems** · Brisbane, AU &nbsp;·&nbsp; he/him
+**BCompSc (Machine Learning) @ The University of Queensland** · Brisbane, AU &nbsp;·&nbsp; he/him
 
 </div>
 
----
+<table>
+<tr>
+<td width="56%" valign="top">
 
 ## About
 
-CS & ML @ UQ.
+Bachelor of Computer Science, majoring in Machine Learning, at [The University of Queensland](https://www.uq.edu.au/).
 
-Interested in agentic AI systems, especially long-term memory, retrieval, knowledge integration, and tool/workflow orchestration for autonomous agents.
+I build agentic AI systems — especially **long-term memory**, **retrieval**, knowledge integration, and tool/workflow orchestration for autonomous agents — and study how they connect with NLP, information retrieval, and sequential decision-making.
 
-Currently exploring how these systems connect with NLP, information retrieval, and sequential decision-making.
+## Currently
 
----
+- 🔭 &nbsp;Building agent memory systems and research-oriented projects
+- 🌱 &nbsp;Deepening deep learning, NLP, IR, and reinforcement learning
+- 🎓 &nbsp;Coursework across ML, deep learning, pattern recognition, and AI planning
 
 ## Tech Stack
 
@@ -48,41 +52,35 @@ Currently exploring how these systems connect with NLP, information retrieval, a
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 **Infrastructure & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
+</td>
+<td width="44%" valign="top">
 
-## Currently
+## Activity
 
-- 🔭 &nbsp;Working on agentic AI, memory systems, and research-oriented projects
-- 🌱 &nbsp;Deepening foundations in deep learning, NLP, information retrieval, and reinforcement learning
-- 🎓 &nbsp;CS & ML undergraduate at The University of Queensland
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+  <img alt="Contributions in the last 30 days" src="assets/activity-light.svg" width="100%">
+</picture>
 
----
+<p align="center">
+  <img src="assets/profile.gif" width="46%" />
+  <img src="assets/profile1.gif" width="46%" />
+  <br />
+  <img src="assets/profile1.gif" width="46%" />
+  <img src="assets/profile.gif" width="46%" />
+</p>
 
-<div align="center">
+<p align="center"><sub>yes i put an anime girl on my github. deal with it.</sub></p>
 
-<table border="0" cellspacing="0" cellpadding="4">
-  <tr>
-    <td><img src="assets/profile.gif" width="120" /></td>
-    <td><img src="assets/profile1.gif" width="120" /></td>
-    <td><img src="assets/profile1.gif" width="120" /></td>
-    <td><img src="assets/profile.gif" width="120" /></td>
-  </tr>
+</td>
+</tr>
 </table>
-
-<sub>
-  &nbsp;yes i put an anime girl on my github. deal with it.&nbsp;
-</sub>
-
-</div>
