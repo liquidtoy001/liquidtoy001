@@ -1,86 +1,90 @@
 <div align="center">
 
-<!-- 二次元角落 — 保留一点点自我 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=6E7681&center=true&vCenter=true&width=300&lines=%E2%9C%A8+mmy+dream+is+to+learn+mysterious+magic+%E2%9C%A8" alt="subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=14&amp;pause=1600&amp;color=6E7681&amp;center=true&amp;vCenter=true&amp;width=430&amp;height=32&amp;lines=%E2%9C%A8+learning+the+math+behind+the+magic+%E2%9C%A8" alt="✨ learning the math behind the magic ✨" />
 
-**BCompSc (Machine Learning) @ The University of Queensland** · Brisbane, AU &nbsp;·&nbsp; he/him
+<p>
+  <strong>BCompSc (Machine Learning) @ The University of Queensland</strong><br />
+  Brisbane, Australia &nbsp;·&nbsp; he/him
+</p>
+
+<p>AI Agents &nbsp;·&nbsp; Memory &nbsp;·&nbsp; Retrieval</p>
 
 </div>
 
 <table>
 <tr>
-<td width="56%" valign="top">
+<td width="62%" valign="top">
 
-## About
+<h2>About</h2>
 
-Bachelor of Computer Science, majoring in Machine Learning, at The University of Queensland.
-
-I build agentic AI systems — especially **long-term memory**, **retrieval**, knowledge integration, and tool/workflow orchestration for autonomous agents — and study how they connect with NLP, information retrieval, and sequential decision-making.
-
-## Currently
-
-- 🔭 &nbsp;Building agent memory systems and research-oriented projects
-- 🌱 &nbsp;Deepening deep learning, NLP, IR, and reinforcement learning
-- 🎓 &nbsp;Coursework across ML, deep learning, pattern recognition, and AI planning
-
-## Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**ML & AI**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-**Web & Frameworks**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-**Infrastructure & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</td>
-<td width="44%" valign="top">
-
-## Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img alt="Contributions in the last 30 days" src="assets/activity-light.svg" width="100%">
-</picture>
-
-<p align="center">
-  <img src="assets/profile.gif" width="46%" />
-  <img src="assets/profile1.gif" width="46%" />
-  <br />
-  <img src="assets/profile1.gif" width="46%" />
-  <img src="assets/profile.gif" width="46%" />
+<p>
+  I'm a computer science undergraduate majoring in Machine Learning
+  at The University of Queensland.
 </p>
 
-<p align="center"><sub>yes i put an anime girl on my github. deal with it.</sub></p>
+<p>
+  I'm particularly interested in <strong>AI agents, long-term memory,
+  and knowledge representation</strong>, and how these connect with NLP,
+  information retrieval, and sequential decision-making.
+</p>
+
+<h2>Currently</h2>
+
+<ul>
+  <li>🌱 Studying deep learning, NLP, pattern recognition, and AI planning</li>
+  <li>📖 Exploring information retrieval and reinforcement learning</li>
+  <li>🧩 Connecting mathematical foundations with hands-on implementation</li>
+</ul>
+
+</td>
+<td width="38%" valign="top">
+
+<h2>Activity</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg" />
+  <img src="assets/activity-light.svg" alt="Contributions in the last 30 days" width="100%" />
+</picture>
+
+<br />
+
+<p align="center">
+  <img src="assets/profile.gif" alt="Anime animation" width="46%" />
+  <img src="assets/profile1.gif" alt="Another anime animation" width="46%" />
+</p>
+
+<p align="center"><sub>yes, the anime girls are staying.</sub></p>
 
 </td>
 </tr>
 </table>
+
+## Tools & Technologies
+
+**ML & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Development & Tooling**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+<details>
+<summary>More tools & technologies</summary>
+
+**Languages & markup:** JavaScript · PHP · R · HTML · CSS  
+**Frameworks & libraries:** Next.js · Three.js · Laravel  
+**Infrastructure:** Docker · MySQL · Cloudflare Workers
+
+</details>
